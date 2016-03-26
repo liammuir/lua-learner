@@ -1,0 +1,20 @@
+{
+    "LocalDependencies": [
+        "addcustomer.lua",
+        "customerlist.lua",
+        "deletecustomer.lua"
+    ],
+    "LuaDependencies": [
+        "iguana.action",
+        "iguana.user",
+        "school.db",
+        "web.basicauth"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1459003784",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
